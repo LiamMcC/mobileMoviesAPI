@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "releaseYear": 1999
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "releaseYear": 1973
+  },
+  {
+    "id": 4,
+    "title": "Happy Gilmore",
+    "director": "Dennis Dugan",
+    "releaseYear": 1996
+  },
+  {
+    "id": 5,
+    "title": "Eyes Wide Shut",
+    "director": "Stanley Kubric",
+    "releaseYear": 1997
+  },
+  {
+    "id": 6,
+    "title": "1",
+    "director": "2",
+    "releaseYear": 3
+  }
+]
